@@ -1,3 +1,9 @@
 body {
   background-color: #19171c;
+  margin: 2em;
+}
+
+.brands a img {
+  display: block;
+  margin: auto;
 }
