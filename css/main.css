@@ -3,6 +3,10 @@ body {
   margin: 2em;
 }
 
+.brands {
+  background: #c8c8c8;
+}
+
 .brands a img {
   display: block;
   margin: auto;
