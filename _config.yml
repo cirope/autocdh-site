@@ -1,0 +1,4 @@
+title: AutoCDH
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from
